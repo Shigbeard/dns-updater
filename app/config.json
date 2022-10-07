@@ -1,0 +1,12 @@
+{
+    "domains": {
+        "example.com": [
+            "one",
+            "*.one",
+            "two",
+            ""
+        ]
+    },
+    "stdout": "info",
+    "stderr": "warn"
+}
