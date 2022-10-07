@@ -10,7 +10,7 @@ This script consists of 2 core components: Firstly, every 30 seconds, a request 
 
 ### Docker
 
-Modify the docker-compose file to include your api key. Modify `app/config.json` to include your specific domain, and dns records you'd like updated.
+Modify the docker-compose file to include your api key. Modify `app/config.json` to include your specific domain, and dns records you'd like updated. Then run `docker-compose up -d` to start the container.
 
 ### Standalone
 
